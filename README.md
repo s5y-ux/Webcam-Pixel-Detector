@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-blue)](https://opencv.org/)
-[![Release](https://img.shields.io/github/v/release/yourusername/yourprojectname)](https://github.com/yourusername/yourprojectname/releases)
+[![Release](https://img.shields.io/github/v/release/s5y-ux/Webcam-Pixel-Detector)](https://github.com/s5y-ux/Webcam-Pixel-Detector/releases)
 
 A simple Python script to detect the presence of specific colors in webcam frames using OpenCV.
 
