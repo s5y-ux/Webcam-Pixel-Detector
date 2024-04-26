@@ -5,11 +5,11 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-blue)](https://opencv.org/)
 [![Release](https://img.shields.io/github/v/release/yourusername/yourprojectname)](https://github.com/yourusername/yourprojectname/releases)
 
-A simple Python script to detect the presence of red color in webcam frames using OpenCV.
+A simple Python script to detect the presence of specific colors in webcam frames using OpenCV.
 
 ## Features
 
-- Real-time detection of red color in webcam feed.
+- Real-time detection of colors in webcam feed.
 - Prints divergence detection with timestamps.
 
 ## Installation
@@ -31,7 +31,7 @@ A simple Python script to detect the presence of red color in webcam frames usin
 1. Run the script:
 
     ```bash
-    python webcam_red_detection.py
+    python main.py
     ```
 
 2. Press 'q' to exit the program.
@@ -46,4 +46,4 @@ Contributions are welcome! Please feel free to submit a pull request.
 
 ## Acknowledgments
 
-- This project was inspired by the need for simple color detection in real-time webcam feeds.
+- This project was inspired by the need for detecting a void of color for a plasma expierement
