@@ -5,7 +5,14 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-blue)](https://opencv.org/)
 [![Release](https://img.shields.io/github/v/release/s5y-ux/Webcam-Pixel-Detector)](https://github.com/s5y-ux/Webcam-Pixel-Detector/releases)
 
-[![Alt text](https://img.youtube.com/vi/B3zmLvYld30/0.jpg)](https://www.youtube.com/watch?v=B3zmLvYld30)
+An example of the program working in Linux:
+
+https://github.com/s5y-ux/Webcam-Pixel-Detector/assets/59636597/bb9465db-7e78-4f3a-bd62-8454c7d2d61c
+
+The Video of me shooting the laser on the piece of paper in the video:
+
+https://github.com/s5y-ux/Webcam-Pixel-Detector/assets/59636597/39420721-d596-4886-9109-96db1638fa41
+
 
 
 A simple Python script to detect the presence of specific colors in webcam frames using OpenCV.
